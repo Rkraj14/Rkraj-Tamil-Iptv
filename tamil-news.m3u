@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUTHIYA_THALAIMURAI/images/LOGO_HD/image.png" group-title="TAMIL",Puthiya Thalaimurai (576p)
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="https://jio.com" group-title="TAMIL",Polimer News (576p)
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News7Tamil.in@SD" tvg-logo="https://jio.com" group-title="TAMIL",News 7 Tamil (576p)
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="TAMIL",Thanthi TV (576p)
+https://segment.yuppcdn.net/110322/thanthi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News18TamilNadu.in@SD" tvg-logo="https://jio.com" group-title="TAMIL",News18 Tamil Nadu (576p)
+https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
